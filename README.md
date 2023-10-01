@@ -5,6 +5,7 @@ Instructions for running the Gomoku solution:
 
 1. Run the Gomoku solution. (I’m using Visual Studio 2022 Community version).
 2. Swagger will be shown to display available API endpoints you can execute. (You can also use Postman if preferred).
+3. You can also run unit tests for automated basic scenario testing.
 
 
 
@@ -38,5 +39,4 @@ Displays the current board status for visualization
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-3. You can also run unit tests for automated basic scenario testing.
 
